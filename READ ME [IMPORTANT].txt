@@ -1,0 +1,47 @@
+Hi,
+Thanks for visiting my WebFlux Project.
+
+To start using this project just follow these instructions in order:
+
+1)Start the webflux project inside schoolService.zip File.
+2)Start the webflux project inside userService.zip File.
+3)Start the webflux project inside parentService.zip File.
+
+
+Instructions to use the API's of this project:
+
+1) The base url of all the important API's is: http://localhost:8083
+
+After that you can access the following API's:
+
+● /schools :- to fetch details for all schools includes class, student as well as teacher details 
+● /school/{schoolId} : fetch details for a particular school 
+● /school/{schoolId}/class/{classId}: fetch details for a class in a school 
+● /users :- fetch all user details including school, class and teacher details
+ ● /user/{userId} : fetch details of a specific user
+● /user/{schoolId}/teachers :- to fetch teachers’ details for a school including school details 
+● /user/{schoolId}/students :- to fetch students’ details for a school including school details 
+
+--------------------------xx--------------------------------xx-----------------------------------------xx------------
+
+
+Additional Information:
+
+- You can access basic CRUD API's of School service at Base URL: http://localhost:8081
+
+- You can access basic CRUD API's of School service at Base URL: http://localhost:8090
+
+
+--------------------------xx--------------------------------xx-----------------------------------------xx------------
+Thanks & Regards
+Mihir Vats
+mihir.vats@magicedtech.com
+Magic EdTech
+Employe Id: I-1010
+
+
+
+
+
+
+
